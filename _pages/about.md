@@ -29,6 +29,8 @@ I am currently pursuing my Master’s degree at [Saarland University](https://ww
 
 I am doing my Master's thesis at the Max Planck Institute for Software Systems in the [Operating Systems group](https://os.mpi-sws.org/). My thesis is on [generating microservice benchmarks from distributed traces](https://os.mpi-sws.org/projects/palette.html). I am supervised by [Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/) and advised by [Vaastav Anand](https://vaastavanand.com/) and [Matheus Stolet](https://stolet.github.io/).
 
-Before this, I was an intern at AMD, where I kept large-scale CI/CD pipelines running (most of the time).
+I am interested in how cloud systems are built and kept running. This covers development, performance, reliability, testing, and monitoring. In short, I care about the full life of a cloud system from the point of view of the people who build and maintain it. I am interested in these problems both in research and in industry, where these systems are designed for scale.
+
+Previously, I was an intern at AMD, where I kept large-scale CI/CD pipelines running (most of the time).
 
 I did my Bachelor's at the [Ghulam Ishaq Khan Institute of Engineering Sciences and Technology](https://giki.edu.pk/), where I graduated first in my class, receiving the Computer Science department's gold medal.
