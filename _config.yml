@@ -192,13 +192,10 @@ exclude:
   - vendor
   - _pages/publications.md
   - _pages/dropdown.md
-  - _news/
-  - _includes/news.liquid
   - _bibliography/
   - _pages/profiles.md
   - _pages/repositories.md
   - _includes/repository/
-  - _pages/teaching.md
   - _pages/cv.md
 keep_files:
   - CNAME
