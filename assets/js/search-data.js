@@ -23,6 +23,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-work",
+          title: "work",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/work/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -391,7 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-beetle",
+            },},{id: "news-our-work-palette-generating-representative-microservice-benchmarks-with-distributed-traces-will-be-presented-at-sosp-2026",
+          title: 'Our work, Palette: Generating Representative Microservice Benchmarks with Distributed Traces, will be presented...',
+          description: "",
+          section: "News",},{id: "news-presented-palette-as-a-poster-at-cmmrs-2026",
+          title: 'Presented Palette as a poster at CMMRS 2026.',
+          description: "",
+          section: "News",},{id: "news-presented-my-master-s-seminar-on-palette",
+          title: 'Presented my Master’s seminar on Palette.',
+          description: "",
+          section: "News",},{id: "projects-beetle",
           title: 'Beetle',
           description: "Senior year project (Bachelor&#39;s)",
           section: "Projects",handler: () => {
