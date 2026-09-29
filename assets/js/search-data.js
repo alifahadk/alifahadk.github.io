@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-work-palette-generating-representative-microservice-benchmarks-with-distributed-traces-will-be-presented-at-sosp-2026",
-          title: 'Our work, Palette: Generating Representative Microservice Benchmarks with Distributed Traces, will be presented...',
+            },},{id: "news-we-will-be-presenting-a-poster-on-our-work-palette-generating-representative-microservice-benchmarks-with-distributed-traces-at-sosp-2026",
+          title: 'We will be presenting a poster on our work, Palette: Generating Representative Microservice...',
           description: "",
           section: "News",},{id: "news-presented-palette-as-a-poster-at-cmmrs-2026",
           title: 'Presented Palette as a poster at CMMRS 2026.',
